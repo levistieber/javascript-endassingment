@@ -19,7 +19,7 @@ Furthermore, this is a multiplayer game, so 2 people can compete against each ot
 
 ## Class diagram
 
-![Class diagram](c-drm.png?raw=true "Class diagram")
+![Class diagram](diagram2048.png?raw=true "Class diagram")
 
 ## Set up
 
