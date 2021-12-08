@@ -1,0 +1,32 @@
+body{
+    background-color: darkkhaki;
+}
+
+p{
+    color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#canvas1{
+    background-color: burlywood;
+}
+
+#canvas2{
+    background-color: #a887de;
+}
+
+#game {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.canvas-block{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
